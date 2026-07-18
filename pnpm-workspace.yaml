@@ -1,0 +1,6 @@
+packages:
+  - 'phase-1-fundamentals/*'
+  - 'phase-2-react/*'
+  - 'phase-3-node/*'
+  - 'phase-4-fullstack/*'
+  - 'dsa/*'

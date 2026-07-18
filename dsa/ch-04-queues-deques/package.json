@@ -1,0 +1,17 @@
+{
+  "name": "@dev-lab/dsa-ch-04-queues-deques",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.0",
+    "@types/node": "^22.7.0",
+    "tsx": "^4.19.0"
+  }
+}
